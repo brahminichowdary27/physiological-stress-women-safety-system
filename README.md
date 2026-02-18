@@ -81,3 +81,7 @@ Machine learning based stress prediction
 
 Miniaturized wearable design
 
+## Project Documentation
+
+### Project Poster
+[Click here to view the poster](system_poster.pptx)
